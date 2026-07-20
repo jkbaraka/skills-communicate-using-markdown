@@ -1,5 +1,5 @@
-#Daily Planning
+# Daily Planning
 
-##Morning Planning
+## Morning Planning
 
-##Review
+## Review
